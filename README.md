@@ -19,3 +19,9 @@ Too many start projects, I need another project to record these star projects. X
 ## CLI
 - [awless](https://github.com/wallix/awless)
     - The Mighty CLI for AWS
+
+## Management/Monitor Tool
+- [AWS Usage Tool](https://github.com/Netflix/ice)
+    - Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.
+
+
