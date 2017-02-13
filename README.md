@@ -13,5 +13,9 @@ Too many start projects, I need another project to record these star projects. X
     - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
     
 ## ECS
-- [ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline](https://github.com/awslabs/ecs-refarch-continuous-deployment)
+- [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
+    - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
 
+## CLI
+- [awless](https://github.com/wallix/awless)
+    - The Mighty CLI for AWS
