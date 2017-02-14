@@ -21,7 +21,8 @@
 ## ECS
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
     - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
-
+- [ecs-watchbot](https://github.com/mapbox/ecs-watchbot)
+    - Library to help run a highly-scalable AWS service.
 ## CLI
 - [awless](https://github.com/wallix/awless)
     - The Mighty CLI for AWS
