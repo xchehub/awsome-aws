@@ -15,6 +15,8 @@
     - Lambda functions over S3 objects with concurrency control (forEach, map, reduce, filter) 
 - [DragonDisk](http://www.s3-client.com/)
     - File manager for Amazon S3
+- [Amazon S3 Tools](http://s3tools.org/s3cmd)
+    - S3cmd : Command Line S3 Client and Backup for Linux and Mac
     
 ## ECS
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
