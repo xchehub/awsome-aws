@@ -11,6 +11,8 @@ Too many start projects, I need another project to record these star projects. X
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
     - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
+- [s3-lambda](https://github.com/littlstar/s3-lambda)    
+    - Lambda functions over S3 objects with concurrency control (forEach, map, reduce, filter) 
     
 ## ECS
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
