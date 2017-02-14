@@ -17,6 +17,10 @@
     - File manager for Amazon S3
 - [Amazon S3 Tools](http://s3tools.org/s3cmd)
     - S3cmd : Command Line S3 Client and Backup for Linux and Mac
+
+## Redshift
+- [redshift-r](https://github.com/pingles/redshift-r)
+    - Small R package for accessing Redshift 
     
 ## ECS
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
