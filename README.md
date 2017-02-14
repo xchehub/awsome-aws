@@ -35,4 +35,6 @@
 - [AWS Usage Tool](https://github.com/Netflix/ice)
     - Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.
 
-
+## Docs
+- [og-aws](https://github.com/open-guides/og-aws)
+    - Amazon Web Services — a practical guide
