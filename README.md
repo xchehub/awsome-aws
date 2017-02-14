@@ -1,9 +1,9 @@
 # awsome-aws
 好棒棒 AWS 資源
-Collect some projects for Amazom web services.
+Collect some projects for Amazom web services, except official.
 Too many start projects, I need another project to record these star projects. XD
 
-## web site
+## Web site
 - [https://www.kilait.com/](https://www.kilait.com/)
 - [clifflu 又架 blog 了 O.o/](https://blog.clifflu.net/)
 - [第二十四個夏天後](http://blog.changyy.org/)
