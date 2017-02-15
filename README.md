@@ -45,6 +45,9 @@
     - Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.
 - [Botmetric](https://www.botmetric.com/)
     - Integrated AWS Cloud Management Platform
+- [skew](https://github.com/scopely-devops/skew)
+    - A package for identifying and enumerating cloud resources.
+    - Ref. [How to programmatically list all aws resources and tags](http://stackoverflow.com/questions/30674938/how-to-programmatically-list-all-aws-resources-and-tags)
     
 ## Docs
 - [og-aws](https://github.com/open-guides/og-aws)
