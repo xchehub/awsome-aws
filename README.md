@@ -8,6 +8,10 @@
 - [clifflu 又架 blog 了 O.o/](https://blog.clifflu.net/)
 - [第二十四個夏天後](http://blog.changyy.org/)
 
+## EC2
+- [aws-spot-bot](https://github.com/Jakobovski/aws-spot-bot)
+    - Tool for finding and launching the cheapest and most reliable AWS spot instances. 
+    
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
     - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
