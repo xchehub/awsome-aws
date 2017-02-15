@@ -43,7 +43,9 @@
 ## Management/Monitor Tool
 - [AWS Usage Tool](https://github.com/Netflix/ice)
     - Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.
-
+- [Botmetric](https://www.botmetric.com/)
+    - Integrated AWS Cloud Management Platform
+    
 ## Docs
 - [og-aws](https://github.com/open-guides/og-aws)
     - Amazon Web Services — a practical guide
