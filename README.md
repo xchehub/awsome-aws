@@ -48,3 +48,6 @@
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
     - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
 
+## Deep Learning
+- [GoDeeper](https://github.com/Miej/GoDeeper)
+    - AWS p2.xlarge GPU optimized deep learning cluster-grenade.
