@@ -56,7 +56,11 @@
 ## awslabs
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
     - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
-
+- [ecs-refarch-service-discovery](https://github.com/awslabs/ecs-refarch-service-discovery)
+    - An EC2 Container Service Reference Architecture for providing Service Discovery to containers using CloudWatch Events, Lambda and Route 53 private hosted zones. 
+- [ecs-refarch-batch-processing](https://github.com/awslabs/ecs-refarch-batch-processing)
+    - A reference architecture for handling batch processing workloads using Amazon ECS. 
+    
 ## Deep Learning
 - [GoDeeper](https://github.com/Miej/GoDeeper)
     - AWS p2.xlarge GPU optimized deep learning cluster-grenade.
