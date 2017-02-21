@@ -40,6 +40,9 @@
 - [awslogs](https://github.com/jorgebastida/awslogs)
     - AWS CloudWatch logs for Humans.
 
+## Cloudformation
+- [startup-kit-templates](https://github.com/awslabs/startup-kit-templates)
+    - CloudFormation templates for setting up a startup's well-architected infrastructure on AWS. 
 ## Management/Monitor Tool
 - [AWS Usage Tool](https://github.com/Netflix/ice)
     - Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.
