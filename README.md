@@ -12,7 +12,7 @@
 - [World is Interesting](http://newtomaso.blogspot.tw/)
 - [Jex’s Note](http://blog.jex.tw/)
 - [AWS那些事](http://www.aws-faq.com/)
-- [awsok](http://www.awsok.com/)
+- [awsok](http://www.awsok.com/) <<< 東摳摳西摳摳
 
 ## EC2
 - [aws-spot-bot](https://github.com/Jakobovski/aws-spot-bot)
