@@ -8,6 +8,8 @@
 - [clifflu 又架 blog 了 O.o/](https://blog.clifflu.net/)
 - [第二十四個夏天後](http://blog.changyy.org/)
 - [Mr. 沙先生](https://shazi.info/)
+- [JYEH'S BLOG](http://jyeh-blog.logdown.com/)
+- [World is Interesting](http://newtomaso.blogspot.tw/)
 
 ## EC2
 - [aws-spot-bot](https://github.com/Jakobovski/aws-spot-bot)
