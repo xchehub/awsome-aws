@@ -10,6 +10,7 @@
 - [Mr. 沙先生](https://shazi.info/)
 - [JYEH'S BLOG](http://jyeh-blog.logdown.com/)
 - [World is Interesting](http://newtomaso.blogspot.tw/)
+- [Jex’s Note](http://blog.jex.tw/)
 
 ## EC2
 - [aws-spot-bot](https://github.com/Jakobovski/aws-spot-bot)
