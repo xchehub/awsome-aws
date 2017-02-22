@@ -31,8 +31,6 @@
     - Small R package for accessing Redshift 
     
 ## ECS
-- [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
-    - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
 - [ecs-watchbot](https://github.com/mapbox/ecs-watchbot)
     - Library to help run a highly-scalable AWS service.
     
@@ -69,6 +67,10 @@
     - A reference architecture for handling batch processing workloads using Amazon ECS. 
 - [ecs-deep-learning-workshop](https://github.com/awslabs/ecs-deep-learning-workshop)
     - Material for re:Invent 2016 - CON314 - Workshop: Deploy a Deep Learning Framework on Amazon ECS 
+- [ecs-refarch-cloudformation](https://github.com/awslabs/ecs-refarch-cloudformation)
+    - A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML) 
+- [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
+    - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
     
 ## Deep Learning
 - [GoDeeper](https://github.com/Miej/GoDeeper)
