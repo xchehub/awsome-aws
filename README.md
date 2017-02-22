@@ -13,6 +13,7 @@
 - [Jex’s Note](http://blog.jex.tw/)
 - [AWS那些事](http://www.aws-faq.com/)
 - [awsok](http://www.awsok.com/) <<< 東摳摳西摳摳
+- [Idan Bean 種豆得瓜](http://idanbean.idanbird.net/)
 
 ## EC2
 - [aws-spot-bot](https://github.com/Jakobovski/aws-spot-bot)
