@@ -74,6 +74,8 @@
     - A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML) 
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
     - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
+- [eb-python-flask](https://github.com/awslabs/eb-python-flask)
+    - Simple Python and Flask sample application from [AWS Elastic Beanstalk Developer Guide](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_flask.html)
     
 ## Deep Learning
 - [GoDeeper](https://github.com/Miej/GoDeeper)
