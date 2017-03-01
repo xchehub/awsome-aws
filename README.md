@@ -24,7 +24,10 @@
     - Working with MySQL Database Log Files / aws documentation
     - (shinsaka/fluent-plugin-rds-log)[https://github.com/shinsaka/fluent-plugin-rds-log]
         - Amazon Web Services RDS(MySQL) general_log and slow_log input plugin.
-    
+## Elasticache
+- [phpmemcacheadmin](https://github.com/elijaa/phpmemcacheadmin) 
+     - Memcached server admin in php for monitoring and debugging
+     
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
     - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
@@ -54,6 +57,7 @@
 ## Cloudformation
 - [startup-kit-templates](https://github.com/awslabs/startup-kit-templates)
     - CloudFormation templates for setting up a startup's well-architected infrastructure on AWS. 
+    
 ## Management/Monitor Tool
 - [AWS Usage Tool](https://github.com/Netflix/ice)
     - Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.
