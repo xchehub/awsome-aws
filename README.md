@@ -18,6 +18,12 @@
 ## EC2
 - [aws-spot-bot](https://github.com/Jakobovski/aws-spot-bot)
     - Tool for finding and launching the cheapest and most reliable AWS spot instances. 
+
+## RDS
+- [fluent-plugin-rds-slowlog](https://github.com/kenjiskywalker/fluent-plugin-rds-slowlog)
+    - Working with MySQL Database Log Files / aws documentation
+    - (shinsaka/fluent-plugin-rds-log)[https://github.com/shinsaka/fluent-plugin-rds-log]
+        - Amazon Web Services RDS(MySQL) general_log and slow_log input plugin.
     
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
