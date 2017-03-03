@@ -28,7 +28,11 @@
 ## Elasticache
 - [phpmemcacheadmin](https://github.com/elijaa/phpmemcacheadmin) 
      - Memcached server admin in php for monitoring and debugging
-     
+
+## Lambda
+- [lambda-packs](https://github.com/ryfeus/lambda-packs)
+    - pack Tensorflow in to a Lambda.
+    
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
     - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
