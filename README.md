@@ -97,6 +97,9 @@
     - Simple Python and Flask sample application from [AWS Elastic Beanstalk Developer Guide](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_Python_flask.html)
 - [lambda-refarch-imagerecognition](https://github.com/awslabs/lambda-refarch-imagerecognition)
     - Image Recognition and Processing Backend reference architecture
+- [lambda-refarch-fileprocessing](https://github.com/awslabs/lambda-refarch-fileprocessing)    
+    - Serverless Reference Architecture for Real-time File Processing
+    - [無伺服器參考架構：即時檔案處理](https://github.com/awslabs/lambda-refarch-fileprocessing/blob/master/README/README-TW.md)
     
 ## Deep Learning
 - [GoDeeper](https://github.com/Miej/GoDeeper)
