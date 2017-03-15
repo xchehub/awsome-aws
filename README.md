@@ -32,6 +32,8 @@
 ## Lambda
 - [lambda-packs](https://github.com/ryfeus/lambda-packs)
     - pack Tensorflow in to a Lambda.
+- [python-lambda](https://github.com/nficano/python-lambda)
+    - A toolkit for developing and deploying serverless Python code in AWS Lambda. 
     
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
