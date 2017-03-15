@@ -102,7 +102,12 @@
 - [lambda-refarch-fileprocessing](https://github.com/awslabs/lambda-refarch-fileprocessing)    
     - Serverless Reference Architecture for Real-time File Processing
     - [無伺服器參考架構：即時檔案處理](https://github.com/awslabs/lambda-refarch-fileprocessing/blob/master/README/README-TW.md)
-    
+
+## Certification
+- [AWSCurriculums](https://github.com/excellalabs/AWSCurriculums)
+    - Curriculums for learning AWS, notably for the Developer or Solutions Architect certifications 
+
+
 ## Deep Learning
 - [GoDeeper](https://github.com/Miej/GoDeeper)
     - AWS p2.xlarge GPU optimized deep learning cluster-grenade.
