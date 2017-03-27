@@ -32,8 +32,15 @@
 ## Lambda
 - [lambda-packs](https://github.com/ryfeus/lambda-packs)
     - pack Tensorflow in to a Lambda.
+    - https://github.com/ryfeus/lambda-packs/tree/master/Pyrestest_wrk
+        - https://www.reddit.com/r/aws/comments/6142fy/load_testing_using_aws_lambda/
+        - load testing with WRK and pyresttest.
+            - https://github.com/wg/wrk
+            - https://github.com/svanoort/pyresttest
+        - [bench-rest](https://github.com/jeffbski/bench-rest)
+    
 - [python-lambda](https://github.com/nficano/python-lambda)
-    - A toolkit for developing and deploying serverless Python code in AWS Lambda. 
+    - A toolkit for developing and deploying serverless Python code in AWS Lambda.
     
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
