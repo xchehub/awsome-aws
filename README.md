@@ -88,6 +88,10 @@
 ## Others
 - [archon](https://github.com/kubeup/archon)
     - Open source tool for cluster creation and daily operations.
+- [the cloudyr project](https://github.com/cloudyr)
+    - Making R Cloudier!
+    - https://cloudyr.github.io/
+    - 在 R code 裡 access aws resource.
     
 ## awslabs
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
