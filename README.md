@@ -90,8 +90,8 @@
     - Open source tool for cluster creation and daily operations.
 - [the cloudyr project](https://github.com/cloudyr)
     - Making R Cloudier!
-    - https://cloudyr.github.io/
-    - 在 R code 裡 access aws resource. 會不會就是重新包裝了 aws cli
+    - https://cloudyr.github.io/  
+    - 在 R code 裡 access aws resource. 會不會就是重新包裝了 aws cli
     
 ## awslabs
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
