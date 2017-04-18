@@ -41,6 +41,10 @@
     
 - [python-lambda](https://github.com/nficano/python-lambda)
     - A toolkit for developing and deploying serverless Python code in AWS Lambda.
+- [serverless-chrome](https://github.com/adieuadieu/serverless-chrome)    
+    - Run headless Chrome on AWS Lambda
+    - Provide the scaffolding for using Headless Chrome during a serverless function invocation. 
+    - 這樣 Lambda 可跑 Chrome 螢幕截取或 print PDF了
     
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
