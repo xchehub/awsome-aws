@@ -78,7 +78,11 @@
 ## Cloudformation
 - [startup-kit-templates](https://github.com/awslabs/startup-kit-templates)
     - CloudFormation templates for setting up a startup's well-architected infrastructure on AWS. 
-    
+
+## DMS
+- [ptolemy](https://github.com/cloudreach/ptolemy)
+    - Write terse AWS DMS table mappings.
+
 ## Management/Monitor Tool
 - [AWS Usage Tool](https://github.com/Netflix/ice)
     - Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.
