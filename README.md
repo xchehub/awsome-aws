@@ -83,6 +83,11 @@
 - [ptolemy](https://github.com/cloudreach/ptolemy)
     - Write terse AWS DMS table mappings.
 
+## CloudTrail
+- [aws_configurer](https://github.com/KKBOX/aws_configurer)
+    - Configure AWS accounts for CloudTrail, Root Account Usage Monitor.
+    - 雖然已搞定還是記上一筆ㄡ一筆
+
 ## Management/Monitor Tool
 - [AWS Usage Tool](https://github.com/Netflix/ice)
     - Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.
