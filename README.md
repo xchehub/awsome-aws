@@ -66,6 +66,10 @@
 ## ECS
 - [ecs-watchbot](https://github.com/mapbox/ecs-watchbot)
     - Library to help run a highly-scalable AWS service.
+- [ecs-cfn-refarch](https://github.com/pahud/ecs-cfn-refarch)
+    - Amazon ECS reference architecture
+    - 先收下, XD.
+    - 在AWS使用ECS Windows container. 一鍵自動生成 ECS Windows Container 環境，利用 Lambda+custom resource 查詢最新的 AMI ID 帶給ASG+LC  起 Spot instance 註冊到 ECS Cluste 然後起 ECS Service 掛上ALB.
     
 ## CLI
 - [awless](https://github.com/wallix/awless)
