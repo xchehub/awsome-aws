@@ -18,7 +18,9 @@
 ## EC2
 - [aws-spot-bot](https://github.com/Jakobovski/aws-spot-bot)
     - Tool for finding and launching the cheapest and most reliable AWS spot instances. 
-
+- [kubernetes-ec2-autoscaler](kubernetes-ec2-autoscaler)
+    - A batch-optimized scaling manager for Kubernetes
+    
 ## RDS
 - [fluent-plugin-rds-slowlog](https://github.com/kenjiskywalker/fluent-plugin-rds-slowlog)
     - Working with MySQL Database Log Files / aws documentation
