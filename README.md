@@ -80,6 +80,9 @@
 ## Cloudwatch
 - [awslogs](https://github.com/jorgebastida/awslogs)
     - AWS CloudWatch logs for Humans.
+- [cloudwatch-logs-subscription-consumer](https://github.com/awslabs/cloudwatch-logs-subscription-consumer)
+    - A specialized Amazon Kinesis stream reader. 
+    - Help you deliver data from Amazon CloudWatch Logs to any other system in near real-time using a CloudWatch Logs Subscription Filter.
 
 ## Cloudformation
 - [startup-kit-templates](https://github.com/awslabs/startup-kit-templates)
