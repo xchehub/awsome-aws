@@ -14,6 +14,7 @@
 - [AWS那些事](http://www.aws-faq.com/)
 - [awsok](http://www.awsok.com/) <<< 東摳摳西摳摳
 - [Idan Bean 種豆得瓜](http://idanbean.idanbird.net/)
+- [AWS經驗教學 - 台灣的Web工程師](http://akuma1.pixnet.net/blog/category/11469946)
 
 ## EC2
 - [aws-spot-bot](https://github.com/Jakobovski/aws-spot-bot)
@@ -50,7 +51,10 @@
 - [lambda-refarch-imagerecognition](https://github.com/awslabs/lambda-refarch-imagerecognition)    
     - Image Recognition and Processing Backend reference architecture.
     - Using AWS Lambda, Amazon S3, Amazon DynamoDB and Amazon Rekognition.
-    
+- [learn-aws-lambda](https://github.com/dwyl/learn-aws-lambda)
+    - Learn how to use AWS Lambda to easily create infinitely scalable web services
+    - 
+
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
     - Scripts to build your own IPsec VPN server, with IPsec/L2TP and Cisco IPsec on Ubuntu, Debian and CentOS
