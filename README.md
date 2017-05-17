@@ -151,3 +151,5 @@
 ## Deep Learning
 - [GoDeeper](https://github.com/Miej/GoDeeper)
     - AWS p2.xlarge GPU optimized deep learning cluster-grenade.
+
+## practice exam
