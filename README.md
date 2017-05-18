@@ -101,6 +101,11 @@
     - Configure AWS accounts for CloudTrail, Root Account Usage Monitor.
     - 雖然已搞定還是記上一筆ㄡ一筆
 
+## Kinesis
+- [kinesalite](https://github.com/mhart/kinesalite)
+    - An implementation of Amazon's Kinesis built on LevelDB
+    - [LevelDB](http://leveldb.org/), https://github.com/google/leveldb, https://zh.wikipedia.org/wiki/LevelDB
+
 ## Management/Monitor Tool
 - [AWS Usage Tool](https://github.com/Netflix/ice)
     - Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.
