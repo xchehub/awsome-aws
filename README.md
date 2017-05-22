@@ -53,7 +53,8 @@
     - Using AWS Lambda, Amazon S3, Amazon DynamoDB and Amazon Rekognition.
 - [learn-aws-lambda](https://github.com/dwyl/learn-aws-lambda)
     - Learn how to use AWS Lambda to easily create infinitely scalable web services
-    - 
+- [LambStatus](https://github.com/ks888/LambStatus)
+    - Serverless Status Page System
 
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
