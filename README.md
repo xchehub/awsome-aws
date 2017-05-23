@@ -55,6 +55,9 @@
     - Learn how to use AWS Lambda to easily create infinitely scalable web services
 - [LambStatus](https://github.com/ks888/LambStatus)
     - Serverless Status Page System
+- [/lambda-machine-local](https://github.com/lambda-linux/lambda-machine-local)
+    - Stable and secure local docker development environment for AWS Users https://lambda-linux.io/
+    - It provides a stable and secure local docker development environment.
 
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
