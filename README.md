@@ -142,8 +142,6 @@
     - An EC2 Container Service Reference Architecture for providing Service Discovery to containers using CloudWatch Events, Lambda and Route 53 private hosted zones. 
 - [ecs-refarch-batch-processing](https://github.com/awslabs/ecs-refarch-batch-processing)
     - A reference architecture for handling batch processing workloads using Amazon ECS. 
-- [ecs-deep-learning-workshop](https://github.com/awslabs/ecs-deep-learning-workshop)
-    - Material for re:Invent 2016 - CON314 - Workshop: Deploy a Deep Learning Framework on Amazon ECS 
 - [ecs-refarch-cloudformation](https://github.com/awslabs/ecs-refarch-cloudformation)
     - A reference architecture for deploying containerized microservices with Amazon ECS and AWS CloudFormation (YAML) 
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
@@ -164,5 +162,9 @@
 ## Deep Learning
 - [GoDeeper](https://github.com/Miej/GoDeeper)
     - AWS p2.xlarge GPU optimized deep learning cluster-grenade.
-
+- [deeplearning-cfn](https://github.com/awslabs/deeplearning-cfn)
+    - CFN cluster for DeepLearning AMIs.
+- [ecs-deep-learning-workshop](https://github.com/awslabs/ecs-deep-learning-workshop)
+    - Material for re:Invent 2016 - CON314 - Workshop: Deploy a Deep Learning Framework on Amazon ECS 
+    
 ## practice exam
