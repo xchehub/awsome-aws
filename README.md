@@ -91,6 +91,8 @@
 - [cloudwatch-logs-subscription-consumer](https://github.com/awslabs/cloudwatch-logs-subscription-consumer)
     - A specialized Amazon Kinesis stream reader. 
     - Help you deliver data from Amazon CloudWatch Logs to any other system in near real-time using a CloudWatch Logs Subscription Filter.
+- [axibase-collector - AWS job](https://github.com/axibase/axibase-collector/blob/master/jobs/aws.md)
+    - Collect data from the Amazon Web Services CloudWatch service and store it in the Axibase Time Series Database for long-term retention, reporting, and analytics.
 
 ## Cloudformation
 - [startup-kit-templates](https://github.com/awslabs/startup-kit-templates)
