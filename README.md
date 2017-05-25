@@ -93,6 +93,8 @@
     - Help you deliver data from Amazon CloudWatch Logs to any other system in near real-time using a CloudWatch Logs Subscription Filter.
 - [axibase-collector - AWS job](https://github.com/axibase/axibase-collector/blob/master/jobs/aws.md)
     - Collect data from the Amazon Web Services CloudWatch service and store it in the Axibase Time Series Database for long-term retention, reporting, and analytics.
+- [cloudwatch-librato](https://github.com/mapbox/cloudwatch-librato)
+    - Fetch AWS CloudWatch metrics and submit to Librato Metrics
 
 ## Cloudformation
 - [startup-kit-templates](https://github.com/awslabs/startup-kit-templates)
