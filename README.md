@@ -134,7 +134,9 @@
     - Making R Cloudier!
     - https://cloudyr.github.io/  
     - 在 R code 裡 access aws resource. 會不會就是重新包裝了 aws cli
-    
+- [chrome-aws-api-debugger](https://github.com/zorrofox/chrome-aws-api-debugger)
+    - AWS API debugger, 不知還行不行.
+
 ## awslabs
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
     - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
