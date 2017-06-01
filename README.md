@@ -136,6 +136,9 @@
     - 在 R code 裡 access aws resource. 會不會就是重新包裝了 aws cli
 - [chrome-aws-api-debugger](https://github.com/zorrofox/chrome-aws-api-debugger)
     - AWS API debugger, 不知還行不行.
+- [aws-sdk-mock](https://github.com/dwyl/aws-sdk-mock)
+    - AWSomocks for Javascript/Node.js aws-sdk tested, documented & maintained. Contributions welcome!
+    - 
 
 ## awslabs
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
