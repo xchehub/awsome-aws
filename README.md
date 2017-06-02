@@ -68,6 +68,9 @@
     - File manager for Amazon S3
 - [Amazon S3 Tools](http://s3tools.org/s3cmd)
     - S3cmd : Command Line S3 Client and Backup for Linux and Mac
+- [vue-s3-dropzone](https://github.com/kfei/vue-s3-dropzone)
+    - Vue.js component works with AWS S3 serverlessly
+    - 用 AWs Lambda 實現的 S3 uploader
 
 ## Redshift
 - [redshift-r](https://github.com/pingles/redshift-r)
