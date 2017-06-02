@@ -138,7 +138,9 @@
     - AWS API debugger, 不知還行不行.
 - [aws-sdk-mock](https://github.com/dwyl/aws-sdk-mock)
     - AWSomocks for Javascript/Node.js aws-sdk tested, documented & maintained. Contributions welcome!
-    - 
+- [amnigos/CloudWatch](https://github.com/amnigos/CloudWatch)
+    - This is an initiative to create browser based measurement of Amazon EC2 latency for all different regions.
+    -  aws 各 region 幾個 service 的
 
 ## awslabs
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
