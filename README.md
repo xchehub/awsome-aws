@@ -83,7 +83,10 @@
     - Amazon ECS reference architecture
     - 先收下, XD.
     - 在AWS使用ECS Windows container. 一鍵自動生成 ECS Windows Container 環境，利用 Lambda+custom resource 查詢最新的 AMI ID 帶給ASG+LC  起 Spot instance 註冊到 ECS Cluste 然後起 ECS Service 掛上ALB.
-    
+- [ecs-host-service-scale](https://github.com/miketheman/ecs-host-service-scale)
+    - Extending ECS Auto-scaling for under $2/month with Lambda
+    - http://www.miketheman.net/2017/01/09/extending-ecs-auto-scaling-for-under-2month-with-lambda/
+
 ## CLI
 - [awless](https://github.com/wallix/awless)
     - The Mighty CLI for AWS
