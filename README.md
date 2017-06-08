@@ -63,6 +63,9 @@
     - https://blog.zappa.io/
     - 想上次找 mysql package, 原先在用的 MySQLdb trouble, 後來改用 PyMySQL.
     - [Problems using MySQL with AWS Lambda in Python](https://stackoverflow.com/questions/35763380/problems-using-mysql-with-aws-lambda-in-python)
+- [docker-lambda](https://github.com/lambci/docker-lambda)
+    - Docker images and test runners that replicate the live AWS Lambda environment
+    - 要怎樣在 local , debug Lambda 呢？ 試試用 docker.
 
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
