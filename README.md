@@ -175,6 +175,10 @@
     - Serverless Reference Architecture for Real-time File Processing
     - [無伺服器參考架構：即時檔案處理](https://github.com/awslabs/lambda-refarch-fileprocessing/blob/master/README/README-TW.md)
 
+# Alexa, 好像不錯玩
+- [flask-ask](https://github.com/johnwheeler/flask-ask)
+    - Alexa Skills Kit for Python
+
 ## Certification
 - [AWSCurriculums](https://github.com/excellalabs/AWSCurriculums)
     - Curriculums for learning AWS, notably for the Developer or Solutions Architect certifications 
