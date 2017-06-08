@@ -58,6 +58,11 @@
 - [/lambda-machine-local](https://github.com/lambda-linux/lambda-machine-local)
     - Stable and secure local docker development environment for AWS Users https://lambda-linux.io/
     - It provides a stable and secure local docker development environment.
+- [lambda-packages](https://github.com/Miserlou/lambda-packages)
+    - Various popular python libraries, pre-compiled to be compatible with AWS Lambda
+    - https://blog.zappa.io/
+    - 想上次找 mysql package, 原先在用的 MySQLdb trouble, 後來改用 PyMySQL.
+    - [Problems using MySQL with AWS Lambda in Python](https://stackoverflow.com/questions/35763380/problems-using-mysql-with-aws-lambda-in-python)
 
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
