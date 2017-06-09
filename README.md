@@ -30,6 +30,7 @@
 - [ottertune](https://github.com/cmu-db/ottertune)
     - The automatic DBMS configuration tool
     - [Tuning Your DBMS Automatically with Machine Learning](https://aws.amazon.com/tw/blogs/ai/tuning-your-dbms-automatically-with-machine-learning/)
+    - [Automatic Database Management System Tuning Through Large-scale Machine Learning](http://www.pdl.cmu.edu/PDL-FTP/Database/parameters.pdf)
     - 用機器學習優化資料庫, 酷!!
 
 ## Elasticache
