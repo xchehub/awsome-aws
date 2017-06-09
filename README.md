@@ -66,6 +66,9 @@
 - [docker-lambda](https://github.com/lambci/docker-lambda)
     - Docker images and test runners that replicate the live AWS Lambda environment
     - 要怎樣在 local , debug Lambda 呢？ 試試用 docker.
+- [lambci](https://github.com/lambci/lambci)
+    - A continuous integration system built on AWS Lambda
+    - [Introducing LambCI — a serverless build system](https://medium.com/@hichaelmart/lambci-4c3e29d6599b)
 
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
