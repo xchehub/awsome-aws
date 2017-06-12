@@ -119,6 +119,8 @@
     - Fetch AWS CloudWatch metrics and submit to Librato Metrics
 - [cloudviz](https://github.com/mbabineau/cloudviz)
     - Makes nice graphs of Amazon CloudWatch data using Google Chart Tools
+- [cloudgrapher](https://github.com/dmgress/cloudgrapher)
+    - One page visualization tool for AWS CloudFormation scripts http://dmgress.github.io/cloudgrapher/
     
 ## Cloudformation
 - [startup-kit-templates](https://github.com/awslabs/startup-kit-templates)
