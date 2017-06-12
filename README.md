@@ -117,7 +117,9 @@
     - Collect data from the Amazon Web Services CloudWatch service and store it in the Axibase Time Series Database for long-term retention, reporting, and analytics.
 - [cloudwatch-librato](https://github.com/mapbox/cloudwatch-librato)
     - Fetch AWS CloudWatch metrics and submit to Librato Metrics
-
+- [cloudviz](https://github.com/mbabineau/cloudviz)
+    - Makes nice graphs of Amazon CloudWatch data using Google Chart Tools
+    
 ## Cloudformation
 - [startup-kit-templates](https://github.com/awslabs/startup-kit-templates)
     - CloudFormation templates for setting up a startup's well-architected infrastructure on AWS. 
