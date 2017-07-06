@@ -21,7 +21,9 @@
     - Tool for finding and launching the cheapest and most reliable AWS spot instances. 
 - [kubernetes-ec2-autoscaler](kubernetes-ec2-autoscaler)
     - A batch-optimized scaling manager for Kubernetes
-    
+- [aws-ec2-ssh](https://github.com/widdix/aws-ec2-ssh)
+    - Manage AWS EC2 SSH access with IAM
+
 ## RDS
 - [fluent-plugin-rds-slowlog](https://github.com/kenjiskywalker/fluent-plugin-rds-slowlog)
     - Working with MySQL Database Log Files / aws documentation
@@ -74,6 +76,9 @@
 - [lambci](https://github.com/lambci/lambci)
     - A continuous integration system built on AWS Lambda
     - [Introducing LambCI — a serverless build system](https://medium.com/@hichaelmart/lambci-4c3e29d6599b)
+- [aws-lambda-scala-example-project](https://github.com/snowplow/aws-lambda-scala-example-project)
+    - An AWS Lambda function in Scala reading events from Amazon Kinesis and writing event counts to DynamoDB http://snowplowanalytics.com
+    
 
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
@@ -87,6 +92,8 @@
 - [vue-s3-dropzone](https://github.com/kfei/vue-s3-dropzone)
     - Vue.js component works with AWS S3 serverlessly
     - 用 AWs Lambda 實現的 S3 uploader
+- [aws-s3-virusscan](https://github.com/widdix/aws-s3-virusscan)
+    - Free Antivirus for S3 Buckets 
 
 ## Redshift
 - [redshift-r](https://github.com/pingles/redshift-r)
@@ -125,6 +132,8 @@
 ## Cloudformation
 - [startup-kit-templates](https://github.com/awslabs/startup-kit-templates)
     - CloudFormation templates for setting up a startup's well-architected infrastructure on AWS. 
+- [aws-cf-templates](https://github.com/widdix/aws-cf-templates)
+    - Free Templates for AWS CloudFormation
 
 ## DMS
 - [ptolemy](https://github.com/cloudreach/ptolemy)
