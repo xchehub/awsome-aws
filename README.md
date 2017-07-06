@@ -15,6 +15,7 @@
 - [awsok](http://www.awsok.com/) <<< 東摳摳西摳摳
 - [Idan Bean 種豆得瓜](http://idanbean.idanbird.net/)
 - [AWS經驗教學 - 台灣的Web工程師](http://akuma1.pixnet.net/blog/category/11469946)
+- [小信豬的原始部落](https://godleon.github.io/)
 
 ## EC2
 - [aws-spot-bot](https://github.com/Jakobovski/aws-spot-bot)
