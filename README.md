@@ -178,6 +178,11 @@
     - This is an initiative to create browser based measurement of Amazon EC2 latency for all different regions.
     -  aws 各 region 幾個 service 的
 
+## Security
+- [git-secrets](https://github.com/awslabs/git-secrets)
+    - aws 祕密武器
+    - [AWS 會在 INTERNET 上掃 CREDENTIALS](https://shazi.info/aws-%E6%9C%83%E5%9C%A8-internet-%E4%B8%8A%E6%8E%83-credentials/)
+
 ## awslabs
 - [ecs-refarch-continuous-deployment](https://github.com/awslabs/ecs-refarch-continuous-deployment)
     - ECS Reference Architecture for creating a flexible and scalable deployment pipeline to Amazon ECS using AWS CodePipeline
