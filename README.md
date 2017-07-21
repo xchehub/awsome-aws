@@ -150,6 +150,11 @@
     - An implementation of Amazon's Kinesis built on LevelDB
     - [LevelDB](http://leveldb.org/), https://github.com/google/leveldb, https://zh.wikipedia.org/wiki/LevelDB
 
+## Batch
+- [SampleBatchProcessing](https://github.com/danilop/SampleBatchProcessing)
+    - Sample Implementation of Batch Processing on Amazon Web Services (AWS)
+    - [Samplebatchprocessing](http://danilop.github.io/SampleBatchProcessing/)
+
 ## Management/Monitor Tool
 - [AWS Usage Tool](https://github.com/Netflix/ice)
     - Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.
