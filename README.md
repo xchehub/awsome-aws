@@ -129,7 +129,9 @@
     - Makes nice graphs of Amazon CloudWatch data using Google Chart Tools
 - [cloudgrapher](https://github.com/dmgress/cloudgrapher)
     - One page visualization tool for AWS CloudFormation scripts http://dmgress.github.io/cloudgrapher/
-    
+- [cloudwatch-elk](https://github.com/gilt/cloudwatch-elk)
+    - AWS CloudWatch Logs to ELK
+
 ## Cloudformation
 - [startup-kit-templates](https://github.com/awslabs/startup-kit-templates)
     - CloudFormation templates for setting up a startup's well-architected infrastructure on AWS. 
