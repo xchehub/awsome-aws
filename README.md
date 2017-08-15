@@ -146,6 +146,9 @@
 - [aws_configurer](https://github.com/KKBOX/aws_configurer)
     - Configure AWS accounts for CloudTrail, Root Account Usage Monitor.
     - 雖然已搞定還是記上一筆ㄡ一筆
+- [CloudTrailViewer](https://github.com/githublemming/CloudTrailViewer)
+    - Java desktop tool for viewing AWS CloudTrail log files
+    - cloudtrail 的 log, 要如何找呢?
 
 ## Kinesis
 - [kinesalite](https://github.com/mhart/kinesalite)
