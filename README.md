@@ -36,6 +36,12 @@
     - [Automatic Database Management System Tuning Through Large-scale Machine Learning](http://www.pdl.cmu.edu/PDL-FTP/Database/parameters.pdf)
     - 用機器學習優化資料庫, 酷!!
 
+## MongoDB
+- [quickstart-mongodb](https://github.com/aws-quickstart/quickstart-mongodb)
+    - [MongoDB on the AWS Cloud](http://docs.aws.amazon.com/quickstart/latest/mongodb/welcome.html)
+    - https://d0.awsstatic.com/whitepapers/AWS_NoSQL_MongoDB.pdf
+    - DynamoDB 好用嗎？
+
 ## Elasticache
 - [phpmemcacheadmin](https://github.com/elijaa/phpmemcacheadmin) 
      - Memcached server admin in php for monitoring and debugging
