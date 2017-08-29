@@ -40,7 +40,7 @@
 - [quickstart-mongodb](https://github.com/aws-quickstart/quickstart-mongodb)
     - [MongoDB on the AWS Cloud](http://docs.aws.amazon.com/quickstart/latest/mongodb/welcome.html)
     - https://d0.awsstatic.com/whitepapers/AWS_NoSQL_MongoDB.pdf
-    - DynamoDB 好用嗎？
+    - 這樣會比 DynamoDB 好用嗎？
 
 ## Elasticache
 - [phpmemcacheadmin](https://github.com/elijaa/phpmemcacheadmin) 
