@@ -1,7 +1,7 @@
 # awsome-aws
 - 好棒棒 AWS 資源
-- Collect some projects for Amazom web services, except official resource.
-- Too many start projects, I need another project to record these star projects. XD
+- Collect some projects for Amazom web services, --except official resource--.
+- Too many star projects, I need another project to record these star projects. XD
 
 ## Web site
 - [https://www.kilait.com/](https://www.kilait.com/)
