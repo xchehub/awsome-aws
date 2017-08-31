@@ -47,6 +47,9 @@
      - Memcached server admin in php for monitoring and debugging
 
 ## Lambda
+- [earn-aws-lambda](https://github.com/dwyl/learn-aws-lambda)
+    - Learn how to use AWS Lambda to easily create infinitely scalable web services
+    - 不錯的 lambda 
 - [lambda-packs](https://github.com/ryfeus/lambda-packs)
     - pack Tensorflow in to a Lambda.
     - https://github.com/ryfeus/lambda-packs/tree/master/Pyrestest_wrk
