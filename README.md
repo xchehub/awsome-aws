@@ -39,8 +39,14 @@
 ## DynamoDB
 - [dynamic-dynamodb](https://github.com/sebdah/dynamic-dynamodb)
     - Dynamic DynamoDB provides auto scaling for AWS DynamoDB http://dynamic-dynamodb.readthedocs.org/
-    - 姊夫爸專文介紹 [Auto Scale DynamoDB With Dynamic DynamoDB](https://aws.amazon.com/tw/blogs/aws/auto-scale-dynamodb-with-dynamic-dynamodb/)
+    - 姊夫爸專文介紹 [Auto Scale DynamoDB With Dynamic DynamoDB](https://aws.amazon.com/tw/blogs/aws/auto-scale-dynamodb-with-dynamic-dynamodb/)
         - BUT ==> Update (2017): DynamoDB now supports auto scaling out of the box! Check out my [new blog post](https://aws.amazon.com/blogs/aws/new-auto-scaling-for-amazon-dynamodb/) or read the [new documentation](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/AutoScaling.html).
+- [Local Amazon DynamoDB - tools, dump/restore and testing](http://serebrov.github.io/html/2015-02-01-dynamodb-local.html)
+- [AWS-DynamoDB-to-MongoDB](https://github.com/JasonGhent/AWS-DynamoDB-to-MongoDB)
+- [dynamo-archive](https://github.com/yegor256/dynamo-archive) Archive and Restore DynamoDB Tables, from Command Line
+- [DynamoDBtoCSV](https://github.com/edasque/DynamoDBtoCSV) Dump DynamoDB data into a CSV file
+- [dynamodb_utils](https://github.com/adamchainz/dynamodb_utils) A toolchain for Amazon's DynamoDB to make common operations (backup, restore backups) easier.
+- [dynamodump](https://github.com/bchew/dynamodump) Simple backup and restore for Amazon DynamoDB using boto
 
 ## MongoDB
 - [quickstart-mongodb](https://github.com/aws-quickstart/quickstart-mongodb)
