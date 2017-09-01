@@ -35,6 +35,12 @@
     - [Tuning Your DBMS Automatically with Machine Learning](https://aws.amazon.com/tw/blogs/ai/tuning-your-dbms-automatically-with-machine-learning/)
     - [Automatic Database Management System Tuning Through Large-scale Machine Learning](http://www.pdl.cmu.edu/PDL-FTP/Database/parameters.pdf)
     - 用機器學習優化資料庫, 酷!!
+    
+## DynamoDB
+- [dynamic-dynamodb](https://github.com/sebdah/dynamic-dynamodb)
+    - Dynamic DynamoDB provides auto scaling for AWS DynamoDB http://dynamic-dynamodb.readthedocs.org/
+    - 姊夫爸專文介紹 [Auto Scale DynamoDB With Dynamic DynamoDB](https://aws.amazon.com/tw/blogs/aws/auto-scale-dynamodb-with-dynamic-dynamodb/)
+        - BUT ==> Update (2017): DynamoDB now supports auto scaling out of the box! Check out my [new blog post](https://aws.amazon.com/blogs/aws/new-auto-scaling-for-amazon-dynamodb/) or read the [new documentation](http://docs.aws.amazon.com/amazondynamodb/latest/developerguide/AutoScaling.html).
 
 ## MongoDB
 - [quickstart-mongodb](https://github.com/aws-quickstart/quickstart-mongodb)
