@@ -186,7 +186,9 @@
     - The samples provided in AWS Health Tools can help users to build automation and customized alerting in response to AWS Health events.
     - PHD 的東西原只能在登入 console 時才能看得到, 有點被動.
     - Customized alerts in response to AWS Health events.
-    
+    - [AWS status: The complete guide to monitoring status on the web’s largest cloud provider](http://blog.statuspage.io/aws-status-the-complete-guide-to-monitoring-status-on-the-web-s-largest-cloud-provider)
+        - 有時 AWS 的 status page 也不牢靠, 怎辦勒??!! 試試這個作者的一些建議       
+        
 ## Management/Monitor Tool
 - [AWS Usage Tool](https://github.com/Netflix/ice)
     - Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.
