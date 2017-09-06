@@ -181,6 +181,12 @@
     - Sample Implementation of Batch Processing on Amazon Web Services (AWS)
     - [Samplebatchprocessing](http://danilop.github.io/SampleBatchProcessing/)
 
+## PHD, Personal Health Dashboard
+-- [aws-health-tools](https://github.com/aws/aws-health-tools)
+    - The samples provided in AWS Health Tools can help users to build automation and customized alerting in response to AWS Health events.
+    - PHD 的東西原只能在登入 console 時才能看得到, 有點被動.
+    - Customized alerts in response to AWS Health events.
+    
 ## Management/Monitor Tool
 - [AWS Usage Tool](https://github.com/Netflix/ice)
     - Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.
