@@ -188,6 +188,7 @@
     - Customized alerts in response to AWS Health events.
     - [AWS status: The complete guide to monitoring status on the web’s largest cloud provider](http://blog.statuspage.io/aws-status-the-complete-guide-to-monitoring-status-on-the-web-s-largest-cloud-provider)
         - 有時 AWS 的 status page 也不牢靠, 怎辦勒??!! 試試這個作者的一些建議       
+    - [AWS release aws-health-tool for Personal Health Dashboard (PHD)](https://blog.hothero.org/2017/03/08/aws-release-aws-health-tool-for-personal-health-dashboard-phd/)
         
 ## Management/Monitor Tool
 - [AWS Usage Tool](https://github.com/Netflix/ice)
