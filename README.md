@@ -190,8 +190,10 @@
         - 有時 AWS 的 status page 也不牢靠, 怎辦勒??!! 試試這個作者的一些建議       
     - [AWS release aws-health-tool for Personal Health Dashboard (PHD)](https://blog.hothero.org/2017/03/08/aws-release-aws-health-tool-for-personal-health-dashboard-phd/)
     - [AWS outage? Datadog alerts you](https://www.datadoghq.com/blog/aws-outage-datadog-alerts-you/)
-        - DataDog 的作法, 雖然  
-        
+        - DataDog 的作法, 雖然沒在用 DataDog 
+    - [Monitoring AWS Health Events with Amazon CloudWatch Events](https://docs.aws.amazon.com/health/latest/ug/cloudwatch-events-health.html)
+        - AWS 
+    
 ## Management/Monitor Tool
 - [AWS Usage Tool](https://github.com/Netflix/ice)
     - Ice provides a birds-eye view of our large and complex cloud landscape from a usage and cost perspective.
