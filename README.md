@@ -27,7 +27,14 @@
 - [elastic-load-balancing-tools](https://github.com/aws/elastic-load-balancing-tools)
     - Classic load balancer to Application load balancer copy utility
     - 協助遷移 load balancer .   
-
+- [beeswithmachineguns](https://github.com/newsapps/beeswithmachineguns)
+    - A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications). http://apps.chicagotribune.com/
+    - 小蜜蜂機關槍 XD,  benchmark 的.
+    - [New Network Load Balancer – Effortless Scaling to Millions of Requests per Second](https://aws.amazon.com/tw/blogs/aws/new-network-load-balancer-effortless-scaling-to-millions-of-requests-per-second/)
+    - [Benchmarking with Bees with Machine Guns](http://blog.samstefan.co.uk/load-testing-with-bees-with-machine-guns/)
+    - [手把手教你快速部署流量压测工具 – Bees with Machine Guns](https://aws.amazon.com/cn/blogs/china/bees-with-machine-guns/)
+    - 因為 Siege, JMeter 這些工具都是從同一個 IP 位址發送請求, 無法很真實的模擬實際狀況.      
+    
 ## RDS
 - [fluent-plugin-rds-slowlog](https://github.com/kenjiskywalker/fluent-plugin-rds-slowlog)
     - Working with MySQL Database Log Files / aws documentation
