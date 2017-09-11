@@ -24,6 +24,9 @@
     - A batch-optimized scaling manager for Kubernetes
 - [aws-ec2-ssh](https://github.com/widdix/aws-ec2-ssh)
     - Manage AWS EC2 SSH access with IAM
+- [elastic-load-balancing-tools](https://github.com/aws/elastic-load-balancing-tools)
+    - Classic load balancer to Application load balancer copy utility
+    - 協助遷移 load balancer .   
 
 ## RDS
 - [fluent-plugin-rds-slowlog](https://github.com/kenjiskywalker/fluent-plugin-rds-slowlog)
@@ -192,6 +195,10 @@
     - [AWS outage? Datadog alerts you](https://www.datadoghq.com/blog/aws-outage-datadog-alerts-you/)
         - DataDog 的作法, 雖然沒在用 DataDog.
 - [Monitoring AWS Health Events with Amazon CloudWatch Events](https://docs.aws.amazon.com/health/latest/ug/cloudwatch-events-health.html)
+
+## Trusted Advisor
+- [Trusted-Advisor-Tools](https://github.com/aws/Trusted-Advisor-Tools)
+    - The sample functions provided help to automate AWS Trusted Advisor best practices using Amazon Cloudwatch events and AWS Lambda.
     
 ## Management/Monitor Tool
 - [AWS Usage Tool](https://github.com/Netflix/ice)
@@ -252,7 +259,6 @@
 ## Certification
 - [AWSCurriculums](https://github.com/excellalabs/AWSCurriculums)
     - Curriculums for learning AWS, notably for the Developer or Solutions Architect certifications 
-
 
 ## Deep Learning
 - [GoDeeper](https://github.com/Miej/GoDeeper)
