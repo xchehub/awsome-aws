@@ -234,6 +234,8 @@
 - [amnigos/CloudWatch](https://github.com/amnigos/CloudWatch)
     - This is an initiative to create browser based measurement of Amazon EC2 latency for all different regions.
     -  aws 各 region 幾個 service 的
+- [awspec](https://github.com/k1LoW/awspec)
+    - RSpec tests for your AWS resources.
 
 ## Security
 - [git-secrets](https://github.com/awslabs/git-secrets)
