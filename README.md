@@ -67,7 +67,12 @@
 
 ## Elasticache
 - [phpmemcacheadmin](https://github.com/elijaa/phpmemcacheadmin) 
-     - Memcached server admin in php for monitoring and debugging
+    - Memcached server admin in php for monitoring and debugging
+- [redis-rdb-tools](https://github.com/sripathikrishnan/redis-rdb-tools)
+    - Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON
+    - [From 1.5 GB to 50 MB: The Story of my Redis Database](https://davidcel.is/posts/the-story-of-my-redis-database/)
+- [redis-stat](https://github.com/junegunn/redis-stat)
+    - A real-time Redis monitoring tool
 
 ## Lambda
 - [earn-aws-lambda](https://github.com/dwyl/learn-aws-lambda)
