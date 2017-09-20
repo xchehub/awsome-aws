@@ -132,6 +132,11 @@
     - 用 AWs Lambda 實現的 S3 uploader
 - [aws-s3-virusscan](https://github.com/widdix/aws-s3-virusscan)
     - Free Antivirus for S3 Buckets 
+- [JetS3t](https://bitbucket.org/jmurty/jets3t/wiki/Home)
+    - An open source Java toolkit for Amazon S3, Amazon CloudFront, and Google Storage Service
+    - [http://jets3t.s3.amazonaws.com/index.html](http://jets3t.s3.amazonaws.com/index.html)
+    - [http://www.jets3t.org/](http://www.jets3t.org/)
+- [S3 Browser](http://s3browser.com/)
 
 ## Redshift
 - [redshift-r](https://github.com/pingles/redshift-r)
