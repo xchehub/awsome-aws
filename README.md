@@ -247,7 +247,9 @@
     -  aws 各 region 幾個 service 的
 - [awspec](https://github.com/k1LoW/awspec)
     - RSpec tests for your AWS resources.
-
+- [AWSCloudLab](https://github.com/wongcyrus/AWSCloudLab)
+    - AWS Cloud Lab is aims to facilitate educators using AWS in their teaching.
+    
 ## Security
 - [git-secrets](https://github.com/awslabs/git-secrets)
     - aws 祕密武器
