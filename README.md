@@ -116,7 +116,8 @@
     - [Introducing LambCI — a serverless build system](https://medium.com/@hichaelmart/lambci-4c3e29d6599b)
 - [aws-lambda-scala-example-project](https://github.com/snowplow/aws-lambda-scala-example-project)
     - An AWS Lambda function in Scala reading events from Amazon Kinesis and writing event counts to DynamoDB http://snowplowanalytics.com
-    
+- [lambda-config-demo](https://github.com/theburningmonk/lambda-config-demo)
+    - Demo of approaches to config management for AWS Lambda   
 
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
