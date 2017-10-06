@@ -138,7 +138,10 @@
     - [http://jets3t.s3.amazonaws.com/index.html](http://jets3t.s3.amazonaws.com/index.html)
     - [http://www.jets3t.org/](http://www.jets3t.org/)
 - [S3 Browser](http://s3browser.com/)
-
+- [s3-pit-restore](https://github.com/madisoft/s3-pit-restore)
+    - https://labs.madisoft.it/amazon-s3-point-in-time-restore/
+    - A point in time restore tool for Amazon S3.    
+    
 ## Redshift
 - [redshift-r](https://github.com/pingles/redshift-r)
     - Small R package for accessing Redshift 
