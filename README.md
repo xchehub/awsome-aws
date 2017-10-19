@@ -18,6 +18,7 @@
 - [小信豬的原始部落](https://godleon.github.io/)
 - [Rammus](https://rammusxu.github.io/)
 - [Thinking, Coding, and Learning.](https://rickhw.github.io/)
+- [超猴崽工作日誌](http://g23988.blogspot.tw/)
 
 ## EC2
 - [aws-spot-bot](https://github.com/Jakobovski/aws-spot-bot)
