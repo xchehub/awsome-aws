@@ -291,6 +291,8 @@
     - 蠻多人推薦的神筆記
 - [CDA_resource](https://github.com/g23988/CDA_resource)    
     - 有一些 sampel question
+- [AWS Solutions Architect](http://aws.tuongminh.pro/associate)
+    - mock test
     
 ## Deep Learning
 - [GoDeeper](https://github.com/Miej/GoDeeper)
