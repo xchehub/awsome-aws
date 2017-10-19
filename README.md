@@ -287,7 +287,11 @@
 ## Certification
 - [AWSCurriculums](https://github.com/excellalabs/AWSCurriculums)
     - Curriculums for learning AWS, notably for the Developer or Solutions Architect certifications 
-
+- [Jayendra's Blog](http://jayendrapatil.com/)
+    - 蠻多人推薦的神筆記
+- [CDA_resource](https://github.com/g23988/CDA_resource)    
+    - 有一些 sampel question
+    
 ## Deep Learning
 - [GoDeeper](https://github.com/Miej/GoDeeper)
     - AWS p2.xlarge GPU optimized deep learning cluster-grenade.
