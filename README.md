@@ -14,11 +14,12 @@
 - [AWS那些事](http://www.aws-faq.com/)
 - [awsok](http://www.awsok.com/) <<< 東摳摳西摳摳
 - [Idan Bean 種豆得瓜](http://idanbean.idanbird.net/)
-- [AWS經驗教學 - 台灣的Web工程師](http://akuma1.pixnet.net/blog/category/11469946)
 - [小信豬的原始部落](https://godleon.github.io/)
 - [Rammus](https://rammusxu.github.io/)
 - [Thinking, Coding, and Learning.](https://rickhw.github.io/)
 - [超猴崽工作日誌](http://g23988.blogspot.tw/)
+- [台灣的Web工程師](https://tags.pixnet.net/blog/user/akuma1/AWS)
+
 
 ## EC2
 - [aws-spot-bot](https://github.com/Jakobovski/aws-spot-bot)
