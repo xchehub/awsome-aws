@@ -121,6 +121,8 @@
     - An AWS Lambda function in Scala reading events from Amazon Kinesis and writing event counts to DynamoDB http://snowplowanalytics.com
 - [lambda-config-demo](https://github.com/theburningmonk/lambda-config-demo)
     - Demo of approaches to config management for AWS Lambda   
+- [aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning)
+    - Step Functions state machine generator for AWS Lambda Power Tuning
 
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
