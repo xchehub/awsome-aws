@@ -123,6 +123,8 @@
     - Demo of approaches to config management for AWS Lambda   
 - [aws-lambda-power-tuning](https://github.com/alexcasalboni/aws-lambda-power-tuning)
     - Step Functions state machine generator for AWS Lambda Power Tuning
+- [aws-lambda-cheatsheet](https://github.com/srcecde/aws-lambda-cheatsheet)
+    - Lambda cheatsheet.
 
 ## S3
 - [setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn)
