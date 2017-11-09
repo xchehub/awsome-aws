@@ -19,7 +19,7 @@
 - [Thinking, Coding, and Learning.](https://rickhw.github.io/)
 - [超猴崽工作日誌](http://g23988.blogspot.tw/)
 - [台灣的Web工程師](https://tags.pixnet.net/blog/user/akuma1/AWS)
-
+- [Complete Think](https://rickhw.github.io/)
 
 ## EC2
 - [aws-spot-bot](https://github.com/Jakobovski/aws-spot-bot)
