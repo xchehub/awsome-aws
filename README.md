@@ -147,7 +147,10 @@
 - [S3 Browser](http://s3browser.com/)
 - [s3-pit-restore](https://github.com/madisoft/s3-pit-restore)
     - https://labs.madisoft.it/amazon-s3-point-in-time-restore/
-    - A point in time restore tool for Amazon S3.    
+    - A point in time restore tool for Amazon S3.
+- [bucket-stream](https://github.com/eth0izzle/bucket-stream)    
+    - Find interesting Amazon S3 Buckets by watching certificate transparency logs
+    - 呵 呵 呵
 - [S3 bucket enumerator](https://github.com/bbb31/slurp)
     - 嘿 嘿 嘿
 
