@@ -148,7 +148,9 @@
 - [s3-pit-restore](https://github.com/madisoft/s3-pit-restore)
     - https://labs.madisoft.it/amazon-s3-point-in-time-restore/
     - A point in time restore tool for Amazon S3.    
-    
+- [S3 bucket enumerator](https://github.com/bbb31/slurp)
+    - 嘿 嘿 嘿
+
 ## Redshift
 - [redshift-r](https://github.com/pingles/redshift-r)
     - Small R package for accessing Redshift 
