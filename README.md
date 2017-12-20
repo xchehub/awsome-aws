@@ -38,7 +38,9 @@
     - [Benchmarking with Bees with Machine Guns](http://blog.samstefan.co.uk/load-testing-with-bees-with-machine-guns/)
     - [手把手教你快速部署流量压测工具 – Bees with Machine Guns](https://aws.amazon.com/cn/blogs/china/bees-with-machine-guns/)
     - 因為 Siege, JMeter 這些工具都是從同一個 IP 位址發送請求, 無法很真實的模擬實際狀況.      
-    
+- [kubernetes-ec2-autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler)
+    - A batch-optimized scaling manager for Kubernetes
+
 ## RDS
 - [fluent-plugin-rds-slowlog](https://github.com/kenjiskywalker/fluent-plugin-rds-slowlog)
     - Working with MySQL Database Log Files / aws documentation
